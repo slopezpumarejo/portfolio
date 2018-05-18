@@ -1,0 +1,40 @@
+button {
+  -webkit-appearance: none;
+}
+
+body{
+  font-family: 'Rufina', serif;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 42px;
+}
+
+/* Intro */
+
+
+
+/* Intro */
+
+
+/* Projects */
+
+.projects {
+  background-color: #EDEBE9;
+}
+
+.project-img, .project-img img {
+  width: 100%;
+}
+
+.project-body {
+  text-align: center;
+}
+
+/* Projects */
+
+/* Know me */
+
+
+/* Know me */
